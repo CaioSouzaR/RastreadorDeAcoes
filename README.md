@@ -1,4 +1,4 @@
-# RastreadorDeAcoes
+#  :chart_with_upwards_trend: RastreadorDeAcoes
 
 Escolha as ações que deseja rastrear com poucas linhas de código em Python e compare seus ativos de forma precisa.
 
